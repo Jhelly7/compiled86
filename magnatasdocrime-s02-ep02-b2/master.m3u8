@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=1979027,RESOLUTION=1280x720
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled86@job-magnatasdocrime-s02-ep02-b2/magnatasdocrime-s02-ep02-b2/hls/index.m3u8
