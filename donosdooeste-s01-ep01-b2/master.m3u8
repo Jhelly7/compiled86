@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=10421701,RESOLUTION=1920x960
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled86@job-donosdooeste-s01-ep01-b2/donosdooeste-s01-ep01-b2/hls/index.m3u8
